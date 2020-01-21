@@ -8,6 +8,8 @@ Materialsammlung:
 * https://www.linuxquestions.org/questions/linux-kernel-70/slip-networking-problem-over-serial-line-4175500009/
 * http://www.instructables.com/id/Laser-Transceiver/
 
+* http://www.myquilt.de/al/audiouebertragung/lasermusik.htm
+
 1. Schritt:
 * 2x USB-UART Adapter mit 115200 Baud per Uart verbinden und Slip / Routing einrichten
 
